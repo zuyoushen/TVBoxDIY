@@ -29,6 +29,7 @@ cp $CURRENT_DIR/DIY/app_icon_192.png $CURRENT_DIR/$DIR/app/src/main/res/drawable
 cp $CURRENT_DIR/DIY/app_icon_256.png $CURRENT_DIR/$DIR/app/src/main/res/drawable-xhdpi/app_icon.png
 cp $CURRENT_DIR/DIY/app_icon_384.png $CURRENT_DIR/$DIR/app/src/main/res/drawable-xxhdpi/app_icon.png
 cp $CURRENT_DIR/DIY/app_icon_512.png $CURRENT_DIR/$DIR/app/src/main/res/drawable-xxxhdpi/app_icon.png
+cp $CURRENT_DIR/DIY/app_banner.png $CURRENT_DIR/$DIR/app/src/main/res/drawable/app_banner.png
 #背景修改
 mv $CURRENT_DIR/DIY/W.png $CURRENT_DIR/$DIR/app/src/main/res/drawable/app_bg.png
 #取消选集全屏
